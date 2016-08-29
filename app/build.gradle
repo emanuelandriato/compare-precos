@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "br.com.owlfynnygames.loginapp"
+        applicationId "br.com.owlfynnygames.compareprecos"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
